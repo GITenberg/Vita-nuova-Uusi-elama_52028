@@ -1,0 +1,45 @@
+_repo: Vita-nuova-Uusi-elama_52028
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Koskenniemi, Veikko Antero
+    alias: Koskenniemi, V. A. (Veikko Antero)
+    birthdate: 1885
+    deathdate: 1962
+    gutenberg_agent_id: '9084'
+    url: http://www.gutenberg.org/2009/agents/9084
+    wikipedia: http://fi.wikipedia.org/wiki/V._A._Koskenniemi
+  translator:
+    agent_name: Tuulio, Tyyni
+    aliases:
+    - Haapanen-Tallgren, Tyyni
+    - Haapanen-Tallgren, Tyyne
+    - Haapanen, Tyyni
+    - Tallgren, Tyyni
+    birthdate: 1892
+    gutenberg_agent_id: '44797'
+    url: http://www.gutenberg.org/2009/agents/44797
+creator:
+  author:
+    agent_name: Dante Alighieri
+    alias: Alighieri, Dante
+    birthdate: 1265
+    deathdate: 1321
+    gutenberg_agent_id: '507'
+    url: http://www.gutenberg.org/2009/agents/507
+    wikipedia: http://en.wikipedia.org/wiki/Dante_Alighieri
+description: ''
+gutenberg_issued: '2016-05-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52028'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Italian literature -- Translations into Finnish'
+- GITenberg
+title: Vita nuova (Uusi elämä)
+url: http://www.gutenberg.org/ebooks/52028
