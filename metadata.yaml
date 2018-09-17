@@ -19,6 +19,9 @@ contributor:
     birthdate: 1892
     gutenberg_agent_id: '44797'
     url: http://www.gutenberg.org/2009/agents/44797
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dante Alighieri
@@ -29,6 +32,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/507
     wikipedia: http://en.wikipedia.org/wiki/Dante_Alighieri
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52028#Vita-nuova-Uusi-elama
 gutenberg_issued: '2016-05-09'
 gutenberg_type: Text
 identifiers:
